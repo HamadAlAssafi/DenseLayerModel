@@ -1,0 +1,2 @@
+# DenseLayerModel
+The formula that I want the model to predict is X = Y * 4.5 + 10 I will use Machine Learning and Deep Leanring algorithms such as Neural Network, Dense Layer, Gradient Descent, and Adam to optimize the prediction process and the other algorithms will help in predicting this equation. All the algorithms have been implemented using Python library Tensorflow, and the visualization using Matplotlib Library
